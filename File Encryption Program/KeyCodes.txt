@@ -1,0 +1,9 @@
+8
++0000000003The cook worked 12 hours in the darkened kitchen!
++0000000025Did Fred look well? That's it!
++0000003256Well, all 2567  spies liked the encrypting program.
+-0002222222He's in your house.
+-0000034562Don't look out your window.
+-2000000000He's coming closer.
++2000000000He's behind you.
+-0000055555Sweet dreams.

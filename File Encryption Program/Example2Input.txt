@@ -1,0 +1,9 @@
+8
++0000294703The examples in Macmillan Dictionary are all taken from real corpora.
++2000000000collections of texts of written and spoken English.
+-2000000000We don't sit at our desks and make the examples up.
+-2002222222Research the language and take the most typical uses and embed them in the entries. 
++0000000000These pages provide further information about the dictionary, its content and how it's kept up-to-date:
+-2000000000Users of Macmillan Dictionary can be sure that the language they encounter here is up-to-date,
++2000000001accurate, and reflects the language as it is used today.
+-0000000000THIS IS AN EXAMPLE OF A CAPITAL SENTENCE. this is an example of a lowercase sentence.
